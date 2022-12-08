@@ -1,22 +1,31 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Vinimini onderdeel huisstijl
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+## Inhoudsopgave
+
+  * [Opdracht](#opdracht)
+  * [Kenmerken](#kenmerken)
+  * [Bronnen](#bronnen)
+  
+## Opdracht 
+Wij kregen de opdracht om een onderdeel te maken van in de huisstijl van vinimini. Ik heb ervoor gekozen om een button en een formulier te maken. 
+Dit is het resultaat:
+<img width="432" alt="Schermafbeelding 2022-12-08 om 12 47 52" src="https://user-images.githubusercontent.com/112861069/206439485-cf2950a5-d281-4a71-97bd-b61169c10d0d.png">
+
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+
+Hier de code van de button en het formulier:
+
+Formulier:
+
+<img width="677" alt="Schermafbeelding 2022-12-08 om 12 45 50" src="https://user-images.githubusercontent.com/112861069/206439639-8b955b34-5c91-419a-a93a-5d68f2cbd03c.png">
+<img width="434" alt="Schermafbeelding 2022-12-08 om 12 46 14" src="https://user-images.githubusercontent.com/112861069/206439652-4816a3d4-e0ff-4b89-993d-44a428a4363f.png">
+
+Button:
+
+<img width="403" alt="Schermafbeelding 2022-12-08 om 12 47 02" src="https://user-images.githubusercontent.com/112861069/206439665-90e696fc-8efd-4fb3-91e1-04b7024eaebf.png">
+<img width="318" alt="Schermafbeelding 2022-12-08 om 12 47 15" src="https://user-images.githubusercontent.com/112861069/206439678-f2c5552c-bb8d-4629-94f9-cebb4c1e4503.png">
 
 ## Bronnen
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+Bij het maken van de formulier heb ik eigenlijk alleen de uitleg gebruikt van Cyd en Suus. 
