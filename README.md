@@ -10,6 +10,7 @@ Vinimini onderdeel huisstijl
 ## Opdracht 
 Wij kregen de opdracht om een onderdeel te maken van in de huisstijl van vinimini. Ik heb ervoor gekozen om een button en een formulier te maken. 
 Dit is het resultaat:
+
 <img width="432" alt="Schermafbeelding 2022-12-08 om 12 47 52" src="https://user-images.githubusercontent.com/112861069/206439485-cf2950a5-d281-4a71-97bd-b61169c10d0d.png">
 
 
